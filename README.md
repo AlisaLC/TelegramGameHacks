@@ -1,4 +1,4 @@
-# TelegramGameHacks
+# Telegram Game Hacks
 Just some python scripts for Telegram games
 
 ## Main Script
